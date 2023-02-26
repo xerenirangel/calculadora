@@ -1,10 +1,10 @@
-##Calculadora
+## Calculadora ##
 ## **Índice**
 
-* [1. Intro](https://github.com/xerenirangel/conacion-google/blob/main/README.md#1-intro)
-* [2. Qué construí](https://github.com/xerenirangel/conacion-google/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](https://github.com/xerenirangel/conacion-google/blob/main/README.md#3-objetivo-del-proyecto)
-* [Link a Demo](https://github.com/xerenirangel/conacion-google/blob/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/xerenirangel/calculadora/edit/main/README.md#%C3%ADndice)
+* [2. Qué construí](https://github.com/xerenirangel/calculadora/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del proyecto](https://github.com/xerenirangel/calculadora/edit/main/README.md#3-objetivo-del-proyecto)
+* [Link a Demo](https://github.com/xerenirangel/calculadora/edit/main/README.md#4-link-a-demo)
 
 ****
 
